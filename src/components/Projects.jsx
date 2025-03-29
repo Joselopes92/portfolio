@@ -43,7 +43,7 @@ const Projects = () => {
     {
       id: 6,
       title: "Login-Logout with postgreeSQL",
-      description: "A Project that i made with react and postgreeSQL to learn database.",
+      description: "A Project that i made with react and postgreeSQL.",
       image: "https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg?cs=srgb&dl=pexels-fauxels-3183186.jpg&fm=jpg",
       link: "https://loginlogout-app.vercel.app/Login",
     }
