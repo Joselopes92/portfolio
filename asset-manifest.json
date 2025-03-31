@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.a60532bc.js",
-    "static/media/Curriculum.pdf": "/portfolio/static/media/Curriculum.5009a2ed52070e73cf3d.pdf",
+    "main.js": "/portfolio/static/js/main.0af11f22.js",
+    "static/media/Curriculum.pdf": "/portfolio/static/media/Curriculum.ebb36912b46e3c064f51.pdf",
     "static/media/FotoCurriculo.JPG": "/portfolio/static/media/FotoCurriculo.ff6c389e30634b39d837.JPG",
     "index.html": "/portfolio/index.html",
-    "main.a60532bc.js.map": "/portfolio/static/js/main.a60532bc.js.map"
+    "main.0af11f22.js.map": "/portfolio/static/js/main.0af11f22.js.map"
   },
   "entrypoints": [
-    "static/js/main.a60532bc.js"
+    "static/js/main.0af11f22.js"
   ]
 }
